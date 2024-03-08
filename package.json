@@ -1,5 +1,5 @@
 {
-  "name": "confess-bot",
+  "name": "elaina confess-bot",
   "version": "1.0.0",
   "description": "Bot WhatsApp confess/menfess",
   "main": "index.js",
@@ -7,7 +7,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Zeeoneofc",
+  "author": "Hanz",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys" : "npm:@ferdiz-afk/baileys@5.0.5",
